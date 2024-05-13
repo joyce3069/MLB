@@ -44,7 +44,7 @@ conn = psycopg2.connect(host='localhost',
                         port=5433,
                         database='postgres',
                         user='postgres',
-                        password='q1w2e3r4SQL',
+                        password='q1w2e3r4***',
                         connect_timeout=10)
 
 
